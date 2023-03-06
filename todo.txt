@@ -1,2 +1,1 @@
-A) Write report.
-B) Submit report.
+C) Submit expenses.
