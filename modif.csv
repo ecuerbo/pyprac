@@ -1,0 +1,14 @@
+,#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Stage,Legendary
+0,1,Bulbasaur,Grass,Poison,318,45,49,49,65,65,45,1,False
+1,2,Ivysaur,Grass,Poison,405,60,62,63,80,80,60,2,False
+2,3,Venusaur,Grass,Poison,525,80,82,83,100,100,80,3,False
+42,43,Oddish,Grass,Poison,320,45,50,55,75,65,30,1,False
+43,44,Gloom,Grass,Poison,395,60,65,70,85,75,40,2,False
+44,45,Vileplume,Grass,Poison,490,75,80,85,110,90,50,3,False
+68,69,Bellsprout,Grass,Poison,300,50,75,35,70,30,40,1,False
+69,70,Weepinbell,Grass,Poison,390,65,90,50,85,45,55,2,False
+70,71,Victreebel,Grass,Poison,490,80,105,65,100,70,70,3,False
+72,73,Tentacruel,Water,Poison,515,80,70,65,80,120,100,2,False
+101,102,Exeggcute,Grass,Psychic,325,60,40,80,60,45,40,1,False
+102,103,Exeggutor,Grass,Psychic,520,95,95,85,125,65,55,2,False
+113,114,Tangela,Grass,,435,65,55,115,100,40,60,1,False
